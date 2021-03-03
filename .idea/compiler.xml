@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pinky-mall-coupon" />
+        <module name="pinky-mall-ware" />
+        <module name="pinky-mall-member" />
+        <module name="pinky-mall-product" />
+        <module name="pinky-mall-order" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.Stars.mall.product" target="8" />
+      <module name="PatrickStarShop_PINKY" target="8" />
+      <module name="pinky-mall-coupon" target="8" />
+      <module name="pinky-mall-member" target="8" />
+      <module name="pinky-mall-order" target="8" />
+      <module name="pinky-mall-product" target="8" />
+      <module name="pinky-mall-ware" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

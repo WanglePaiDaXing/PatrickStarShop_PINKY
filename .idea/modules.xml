@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PatrickStarShop_PINKY.iml" filepath="$PROJECT_DIR$/.idea/PatrickStarShop_PINKY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinky-mall-coupon/pinky-mall-coupon.iml" filepath="$PROJECT_DIR$/pinky-mall-coupon/pinky-mall-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinky-mall-member/pinky-mall-member.iml" filepath="$PROJECT_DIR$/pinky-mall-member/pinky-mall-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinky-mall-order/pinky-mall-order.iml" filepath="$PROJECT_DIR$/pinky-mall-order/pinky-mall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinky-mall-product/pinky-mall-product.iml" filepath="$PROJECT_DIR$/pinky-mall-product/pinky-mall-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinky-mall-ware/pinky-mall-ware.iml" filepath="$PROJECT_DIR$/pinky-mall-ware/pinky-mall-ware.iml" />
+    </modules>
+  </component>
+</project>
